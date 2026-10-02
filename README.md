@@ -1,8 +1,8 @@
 # Salut, moi c'est Geoffroy 👋
 
-Étudiant ingénieur, entre **finance de marché**, **data/IA** et **développement web**. J'aime transformer une idée en produit en ligne, de la base de données à l'interface.
+Diplômé d'une école d'ingénieur avec un master en **Data & IA**. Vous trouverez ici mes projets personnels et étudiants.
 
-## Projets phares
+## Mes projets les plus récents
 
 | Projet | En bref | Stack |
 |---|---|---|
